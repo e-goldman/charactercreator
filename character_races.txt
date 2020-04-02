@@ -1,0 +1,17 @@
+Bugbear
+Changeling
+Dragonborn
+Dwarf
+Elf
+Gnome
+Goblin
+Half-Elf
+Half-Orc
+Halfling
+Hobgoblin
+Human
+Kalashtar
+Orc
+Shifter
+Tiefling
+Warforged
