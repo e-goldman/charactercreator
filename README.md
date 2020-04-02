@@ -17,6 +17,7 @@ Run 'ability_score_generation_methods.py' for a Monte Carlo sim comparing common
 and how powerful resulting characters are likely to be
 
 ---Updates---
+
 Next update:
 - Integrate remaining ability score generation rulesets from 'ability_score_generation_methods.py' into character creator
 - Integrate racial ability score modifiers (e.g. half-elves get +2 charisma and +1 to two other abilities of the player's choice)
