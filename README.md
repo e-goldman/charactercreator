@@ -11,6 +11,11 @@ new players who need help getting started, so it's designed as a step-by-step, g
 
 ---Usage instructions---
 
+Ensure that 'character.py', 'main_program.py', and the three .txt files 'character_backgrounds', 'character_classes', and
+'character_races' are in the same directory.
+
+With a Python interpreter:
+
 Run 'main_program.py' to create a character
 
 Run 'ability_score_generation_methods.py' for a Monte Carlo sim comparing common house rules for determining character abilities
